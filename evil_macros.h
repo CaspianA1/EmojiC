@@ -51,7 +51,3 @@
 #define 🚓 auto // like a car
 #define 💵 register // a dollar from a cash register
 #define 🗺️ extern // other location, global
-
-🖕 main() 👉
-	👖 bigNum 👉👈 254322345;
-👈
