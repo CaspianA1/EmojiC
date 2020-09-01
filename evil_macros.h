@@ -1,10 +1,10 @@
 #define 👉 {
 #define 👈 }
+#define 🧨 ...
 #define 👉👈 = 
 #define 😵 !
 #define 👈👉 +
 #define 👈👈 -
-
 #define 😡 / // angry, division
 
 #define 👇 *
